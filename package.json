@@ -1,0 +1,25 @@
+{
+  "name": "quiz",
+  "version": "0.0.1",
+  "description": "quick quiz platform",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3021",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "next": "^9.1.2",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-redux": "^7.1.1",
+    "redux": "^4.0.4",
+    "redux-logger": "^3.0.6",
+    "redux-saga": "^1.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^12.12.1",
+    "@types/react": "^16.9.11",
+    "typescript": "^3.6.4"
+  }
+}
